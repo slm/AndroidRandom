@@ -71,6 +71,9 @@ Simple random data generator for Android
  //return random email like tamhager55@example.com
  Randoms.email(context);
  
+ //return random color as int
+ Randoms.color();
+ 
 ```
 
 # Install
