@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="urls">
+        <item>google.com</item>
+        <item>youtube.com</item>
+        <item>facebook.com</item>
+        <item>baidu.com</item>
+        <item>yahoo.com</item>
+        <item>amazon.com</item>
+        <item>wikipedia.org</item>
+        <item>qq.com</item>
+        <item>google.co.in</item>
+        <item>twitter.com</item>
+        <item>live.com</item>
+        <item>taobao.com</item>
+        <item>msn.com</item>
+        <item>sina.com.cn</item>
+        <item>yahoo.co.jp</item>
+        <item>google.co.jp</item>
+        <item>linkedin.com</item>
+        <item>weibo.com</item>
+        <item>bing.com</item>
+        <item>yandex.ru</item>
+        <item>vk.com</item>
+        <item>hao123.com</item>
+        <item>instagram.com</item>
+        <item>ebay.com</item>
+        <item>google.de</item>
+        <item>amazon.co.jp</item>
+        <item>mail.ru</item>
+        <item>360.cn</item>
+        <item>tmall.com</item>
+        <item>google.co.uk</item>
+        <item>pinterest.com</item>
+        <item>google.ru</item>
+        <item>reddit.com</item>
+        <item>google.com.br</item>
+        <item>t.co</item>
+        <item>netflix.com</item>
+        <item>google.fr</item>
+        <item>sohu.com</item>
+        <item>PayPal.com</item>
+        <item>microsoft.com</item>
+        <item>wordpress.com</item>
+        <item>google.it</item>
+        <item>blogspot.com</item>
+        <item>tumblr.com</item>
+        <item>ok.ru</item>
+        <item>onclickads.net</item>
+        <item>gmw.cn</item>
+        <item>imgur.com</item>
+        <item>stackoverflow.com</item>
+        <item>aliexpress.com</item>
+        <item>xvideos.com</item>
+        <item>apple.com</item>
+        <item>google.com.mx</item>
+        <item>fc2.com</item>
+        <item>imdb.com</item>
+        <item>google.com.hk</item>
+        <item>amazon.de</item>
+        <item>ask.com</item>
+        <item>google.com.tr</item>
+        <item>google.ca</item>
+        <item>office.com</item>
+        <item>alibaba.com</item>
+        <item>rakuten.co.jp</item>
+        <item>tianya.cn</item>
+        <item>pornhub.com</item>
+        <item>google.co.id</item>
+        <item>github.com</item>
+        <item>diply.com</item>
+        <item>craigslist.org</item>
+        <item>soso.com</item>
+        <item>go.com</item>
+        <item>xinhuanet.com</item>
+        <item>nicovideo.jp</item>
+        <item>pixnet.net</item>
+        <item>amazon.co.uk</item>
+        <item>chinadaily.com.cn</item>
+        <item>bongacams.com</item>
+        <item>googleusercontent.com</item>
+        <item>outbrain.com</item>
+        <item>amazon.in</item>
+        <item>blogger.com</item>
+        <item>haosou.com</item>
+        <item>cnn.com</item>
+        <item>jd.com</item>
+        <item>kat.cr</item>
+        <item>google.pl</item>
+        <item>google.com.au</item>
+        <item>Naver.com</item>
+        <item>dropbox.com</item>
+        <item>coccoc.com</item>
+        <item>360.com</item>
+        <item>xhamster.com</item>
+        <item>adobe.com</item>
+        <item>flipkart.com</item>
+        <item>microsoftonline.com</item>
+        <item>whatsapp.com</item>
+        <item>nytimes.com</item>
+        <item>chase.com</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Angeline Burgoon</item>
+        <item>Tam Hager</item>
+        <item>Chantal Levell</item>
+        <item>Antonio Eggebrecht</item>
+        <item>Mona Yetter</item>
+        <item>Scottie Martin</item>
+        <item>Dollie Larios</item>
+        <item>Burma Cowan</item>
+        <item>Debora Allman</item>
+        <item>Natosha Lambert</item>
+        <item>Elvis Amore</item>
+        <item>Theodora Ormsby</item>
+        <item>Vance Cotta</item>
+        <item>Veta Carbonneau</item>
+        <item>Argelia Reighard</item>
+        <item>Jenell Chinn</item>
+        <item>Kathaleen Rumsey</item>
+        <item>Iola Adcock</item>
+        <item>Margene Pearman</item>
+        <item>Everett Walser</item>
+        <item>Effie Pearsall</item>
+        <item>Jarvis Sikes</item>
+        <item>Mee Samora</item>
+        <item>Lura Ehrhardt</item>
+        <item>Peg Obyrne</item>
+        <item>Cora Merwin</item>
+        <item>Randy Casas</item>
+        <item>Ivey Stevenson</item>
+        <item>Lidia Brazeal</item>
+        <item>Brigitte Membreno</item>
+        <item>Sharie Farrier</item>
+        <item>Casie Chickering</item>
+        <item>Yang Josephson</item>
+        <item>Arnold Servais</item>
+        <item>Sharyl Ruby</item>
+        <item>Marx Hash</item>
+        <item>Tenesha Schneider</item>
+        <item>Jake Leffingwell</item>
+        <item>Basilia Tomaselli</item>
+        <item>Gaynelle Thorington</item>
+        <item>Inocencia Stansberry</item>
+        <item>Carmon Desch</item>
+        <item>Eliana Munden</item>
+        <item>Marcela Touchton</item>
+        <item>Ezequiel Shelman</item>
+        <item>Golden Killgore</item>
+        <item>Angla Weber</item>
+        <item>Carolann Prete</item>
+        <item>Elinore Henry</item>
+        <item>Barbie Knauer</item>
+    </string-array>
+
+    <string-array name="honorifics">
+        <item>Master</item>
+        <item>Mr.</item>
+        <item>Miss.</item>
+        <item>Ms.</item>
+        <item>Mrs.</item>
+        <item>Mx.</item>
+        <item>Sir.</item>
+        <item>Madam.</item>
+        <item>Dame.</item>
+        <item>Lord.</item>
+        <item>Lady.</item>
+        <item>Esq.</item>
+        <item>Adv.</item>
+        <item>Dr.</item>
+        <item>Prof.</item>
+    </string-array>
+
+    <string-array name="sentences">
+        <item>In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.</item>
+        <item>While urinating, Chuck Norris is easily capable of welding titanium.</item>
+        <item>Godzilla is a Japanese rendition of Chuck Norris\' first visit to Tokyo.</item>
+        <item>The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn\'t even come close.</item>
+        <item>Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.</item>
+        <item>In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.</item>
+        <item>Every SQL statement that Chuck Norris codes has an implicit &quot;COMMIT&quot; in its end.</item>
+        <item>Chuck Norris killed two stones with one bird.</item>
+        <item>Chuck Norris doesn\'t use web standards as the web will conform to him.</item>
+        <item>Chuck Norris\' first job was as a paperboy. There were no survivors.</item>
+        <item>Chuck Norris doesn\'t throw up if he drinks too much. Chuck Norris throws down!</item>
+        <item>Jean-Claude Van Damme once kicked Chuck Norris\' ass. He was then awakened from his dream by a roundhouse kick to the face.</item>
+        <item>To be or not to be? That is the question. The answer? Chuck Norris.</item>
+        <item>Chuck Norris knows the last digit of PI.</item>
+        <item>For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.</item>
+        <item>Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.</item>
+        <item>There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.</item>
+        <item>Chuck Norris writes code that optimizes itself.</item>
+        <item>Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.</item>
+        <item>Chuck Norris types with one finger. He points it at the keyboard and the keyboard does the rest.</item>
+        <item>Chuck Norris can compile syntax errors.</item>
+        <item>No statement can catch the ChuckNorrisException.</item>
+        <item>Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.</item>
+        <item>Chuck Norris can write multi-threaded applications with a single thread.</item>
+        <item>That\'s not Chuck Norris doing push-ups -- that\'s Chuck Norris moving the Earth away from the path of a deadly asteroid.</item>
+        <item>Chuck Norris cannot love, he can only not kill.</item>
+        <item>The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron\'s ass halfway through the first chapter.</item>
+        <item>There are no steroids in baseball. Just players Chuck Norris has breathed on.</item>
+        <item>Chuck Norris sleeps with a pillow under his gun.</item>
+        <item>That\'s not Chuck Norris doing push-ups -- that\'s Chuck Norris moving the Earth away from the path of a deadly asteroid.</item>
+        <item>Chuck Norris\'s beard can type 140 wpm.</item>
+        <item>All browsers support the hex definitions #chuck and #norris for the colors black and blue.</item>
+        <item>Once you go Norris, you are physically unable to go back.</item>
+        <item>Product Owners never argue with Chuck Norris after he demonstrates the DropKick feature.</item>
+        <item>Chuck Norris doesn\'t need sudo, he just types &quot;Chuck Norris&quot; before his commands.</item>
+        <item>If you try to kill -9 Chuck Norris\'s programs, it backfires.</item>
+        <item>When Chuck Norris does division, there are no remainders.</item>
+        <item>Love does not hurt. Chuck Norris does.</item>
+        <item>Chuck Norris can speak Braille.</item>
+        <item>Some people like to eat frogs\' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.</item>
+        <item>Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.</item>
+        <item>TNT was originally developed by Chuck Norris to cure indigestion.</item>
+        <item>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.</item>
+        <item>Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.</item>
+        <item>Chuck Norris was once in a knife fight, and the knife lost.</item>
+        <item>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.</item>
+        <item>Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.</item>
+        <item>In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.</item>
+        <item>Chuck Norris\'s keyboard doesn\'t have a Ctrl key because nothing controls Chuck Norris.</item>
+        <item>Chuck Norris doesn\'t believe in ravioli. He stuffs a live turtle with beef and smothers it in pig\'s blood.</item>
+        <item>We live in an expanding universe. All of it is trying to get away from Chuck Norris.</item>
+        <item>Chuck Norris wipes his ass with chain mail and sandpaper.</item>
+        <item>Chuck Norris roundhouse kicks don\'t really kill people. They wipe out their entire existence from the space-time continuum.</item>
+        <item>Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they\'re all poisonous.</item>
+        <item>Product Owners never ask Chuck Norris for more features. They ask for mercy.</item>
+        <item>How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.</item>
+        <item>Chuck Norris did in fact, build Rome in a day.</item>
+        <item>&quot;Let the Bodies Hit the Floor&quot; was originally written as Chuck Norris\' theme song.</item>
+        <item>Maslow\'s theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.</item>
+        <item>Chuck Norris once lost the remote, but maintained control of the TV by yelling at it in between bites of his &quot;Filet of Child&quot; sandwich.</item>
+        <item>Chuck Norris can install a 64 bit OS on 32 bit machines.</item>
+        <item>Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.</item>
+        <item>Chuck Norris runs on batteries. Specifically, Die Hards.</item>
+        <item>A man once taunted Chuck Norris with a bag of Lay\'s potato chips, saying &quot;Betcha can\'t eat just one!&quot; Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.</item>
+        <item>Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.</item>
+        <item>Chuck Norris doesn\'t bug hunt as that signifies a probability of failure, he goes bug killing.</item>
+        <item>Chuck Norris doesn\'t believe in ravioli. He stuffs a live turtle with beef and smothers it in pig\'s blood.</item>
+        <item>Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.</item>
+        <item>No statement can catch the ChuckNorrisException.</item>
+        <item>Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther\'s womb.</item>
+        <item>Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.</item>
+        <item>Only Chuck Norris shuts down websites without due process, not SOPA or PIPA.</item>
+        <item>Nobody doesn\'t like Sara Lee. Except Chuck Norris.</item>
+        <item>Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.</item>
+        <item>Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK\'s head exploded out of sheer amazement.</item>
+        <item>Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.</item>
+        <item>Saddam Hussein was not found hiding in a &quot;hole.&quot; Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.</item>
+        <item>Chuck Norris once won a game of connect four in 3 moves.</item>
+        <item>Guantuanamo Bay, Cuba, is the military code-word for &quot;Chuck Norris\' basement&quot;.</item>
+        <item>Chuck Norris\'s log statements are always at the FATAL level.</item>
+        <item>To Chuck Norris, everything contains a vulnerability.</item>
+        <item>Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.</item>
+        <item>Chuck Norris can touch MC Hammer.</item>
+        <item>A diff between your code and Chuck Norris\'s is infinite.</item>
+        <item>Chuck Norris is the ultimate mutex, all threads fear him.</item>
+        <item>Chuck Norris doesn\'t read books. He stares them down until he gets the information he wants.</item>
+        <item>Chuck Norris doesn\'t use Oracle, he is the Oracle.</item>
+        <item>For Chuck Norris, NP-Hard = O(1).</item>
+        <item>The original title for Star Wars was &quot;Skywalker: Texas Ranger&quot;. Starring Chuck Norris.</item>
+        <item>Chuck Norris killed two stones with one bird.</item>
+        <item>Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.</item>
+        <item>There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.</item>
+        <item>Chuck Norris kills anyone that asks: &quot;Do you want fries with that?&quot;. Because by now everyone should know that Chuck doesn\'t want fries with anything. Ever.</item>
+        <item>Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.</item>
+        <item>A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.</item>
+        <item>Newton\'s Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.</item>
+        <item>Chuck Norris doesn\'t need sudo, he just types &quot;Chuck Norris&quot; before his commands.</item>
+        <item>When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.</item>
+        <item>Chuck Norris lost his virginity before his dad did.</item>
+        <item>If Chuck Norris wants your opinion, he\'ll beat it into you.</item>
+        <item>Chuck Norris is the reason why Waldo is hiding.</item>
+    </string-array>
+
+    <string-array name="currencies">
+        <item>AED</item>
+        <item>AFN</item>
+        <item>ALL</item>
+        <item>AMD</item>
+        <item>ANG</item>
+        <item>AOA</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>AWG</item>
+        <item>AZN</item>
+        <item>BAM</item>
+        <item>BBD</item>
+        <item>BDT</item>
+        <item>BGN</item>
+        <item>BHD</item>
+        <item>BIF</item>
+        <item>BMD</item>
+        <item>BND</item>
+        <item>BOB</item>
+        <item>BRL</item>
+        <item>BSD</item>
+        <item>BTN</item>
+        <item>BWP</item>
+        <item>BYR</item>
+        <item>BZD</item>
+        <item>CAD</item>
+        <item>CDF</item>
+        <item>CHF</item>
+        <item>CLP</item>
+        <item>CNY</item>
+        <item>COP</item>
+        <item>CRC</item>
+        <item>CUC</item>
+        <item>CVE</item>
+        <item>CZK</item>
+        <item>DJF</item>
+        <item>DKK</item>
+        <item>DOP</item>
+        <item>DZD</item>
+        <item>EEK</item>
+        <item>EGP</item>
+        <item>ERN</item>
+        <item>ETB</item>
+        <item>EUR</item>
+        <item>FJD</item>
+        <item>FKP</item>
+        <item>GBP</item>
+        <item>GEL</item>
+        <item>GHS</item>
+        <item>GIP</item>
+        <item>GMD</item>
+        <item>GNF</item>
+        <item>GQE</item>
+        <item>GTQ</item>
+        <item>GYD</item>
+        <item>HKD</item>
+        <item>HNL</item>
+        <item>HRK</item>
+        <item>HTG</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>IQD</item>
+        <item>IRR</item>
+        <item>ISK</item>
+        <item>JMD</item>
+        <item>JOD</item>
+        <item>JPY</item>
+        <item>KES</item>
+        <item>KGS</item>
+        <item>KHR</item>
+        <item>KMF</item>
+        <item>KPW</item>
+        <item>KRW</item>
+        <item>KWD</item>
+        <item>KYD</item>
+        <item>KZT</item>
+        <item>LAK</item>
+        <item>LBP</item>
+        <item>LKR</item>
+        <item>LRD</item>
+        <item>LSL</item>
+        <item>LTL</item>
+        <item>LVL</item>
+        <item>LYD</item>
+        <item>MAD</item>
+        <item>MDL</item>
+        <item>MGA</item>
+        <item>MKD</item>
+        <item>MMK</item>
+        <item>MNT</item>
+        <item>MOP</item>
+        <item>MRO</item>
+        <item>MUR</item>
+        <item>MVR</item>
+        <item>MWK</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>MZM</item>
+        <item>NAD</item>
+        <item>NGN</item>
+        <item>NIO</item>
+        <item>NOK</item>
+        <item>NPR</item>
+        <item>NZD</item>
+        <item>OMR</item>
+        <item>PAB</item>
+        <item>PEN</item>
+        <item>PGK</item>
+        <item>PHP</item>
+        <item>PKR</item>
+        <item>PLN</item>
+        <item>PYG</item>
+        <item>QAR</item>
+        <item>RON</item>
+        <item>RSD</item>
+        <item>RUB</item>
+        <item>SAR</item>
+        <item>SBD</item>
+        <item>SCR</item>
+        <item>SDG</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>SHP</item>
+        <item>SLL</item>
+        <item>SOS</item>
+        <item>SRD</item>
+        <item>SYP</item>
+        <item>SZL</item>
+        <item>THB</item>
+        <item>TJS</item>
+        <item>TMT</item>
+        <item>TND</item>
+        <item>TRY</item>
+        <item>TTD</item>
+        <item>TWD</item>
+        <item>TZS</item>
+        <item>UAH</item>
+        <item>UGX</item>
+        <item>USD</item>
+        <item>UYU</item>
+        <item>UZS</item>
+        <item>VEB</item>
+        <item>VND</item>
+        <item>VUV</item>
+        <item>WST</item>
+        <item>XAF</item>
+        <item>XCD</item>
+        <item>XDR</item>
+        <item>XOF</item>
+        <item>XPF</item>
+        <item>YER</item>
+        <item>ZAR</item>
+        <item>ZMK</item>
+        <item>ZWR</item>
+    </string-array>
+
+</resources>
