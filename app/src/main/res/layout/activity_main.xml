@@ -19,17 +19,22 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <LinearLayout
-        android:gravity="center_horizontal"
+    <ScrollView
+        android:nestedScrollingEnabled="true"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-    <include layout="@layout/header"></include>
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <include layout="@layout/header"></include>
 
-    <com.felipecsl.gifimageview.library.GifImageView
-        android:id="@+id/gif"
-        android:layout_width="500dp"
-        android:layout_height="500dp" />
-    </LinearLayout>
+        <com.felipecsl.gifimageview.library.GifImageView
+            android:id="@+id/gif"
+            android:layout_width="250dp"
+            android:layout_height="500dp" />
+        </LinearLayout>
+    </ScrollView>
  </android.support.design.widget.CoordinatorLayout>

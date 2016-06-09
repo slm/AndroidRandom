@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements GifListener {
         TextView mail = (TextView) findViewById(R.id.mail);
         TextView gender = (TextView) findViewById(R.id.gender);
 
-        name.setText(Randoms.name(this));
+        name.setText(Randoms.nameWithEnglishHonorific(this));
 
         description.setText(Randoms.sentence(this));
 
