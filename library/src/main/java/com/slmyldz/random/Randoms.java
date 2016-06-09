@@ -3,7 +3,9 @@ package com.slmyldz.random;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.os.Build;
+import android.support.annotation.ColorInt;
 
 import com.slmyldz.library.R;
 
@@ -159,6 +161,10 @@ public class Randoms {
 
     public static String email(Context context){
         return name(context).replace(" ","").toLowerCase()+Integer(10,99)+"@example.com";
+    }
+
+    public static @ColorInt int randomColor(){
+        return Color.argb(255, random.nextInt(256), random.nextInt(256), random.nextInt(256));
     }
 
 
